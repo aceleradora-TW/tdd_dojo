@@ -1,0 +1,21 @@
+{
+  "name": "dojo-tdd",
+  "version": "1.0.0",
+  "description": "* Fazer transferência de dinheiro entre duas contas (validar se é possível) * Manter um histórico de transferências realizadas por uma conta e para qual conta * Poder consultar o histórico de transferências de uma conta",
+  "main": "index.js",
+  "scripts": {
+
+    "test": "mocha"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceleradora-TW/dojo-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aceleradora-TW/dojo-tdd/issues"
+  },
+  "homepage": "https://github.com/aceleradora-TW/dojo-tdd#readme"
+}
